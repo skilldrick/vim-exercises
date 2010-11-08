@@ -95,3 +95,26 @@ I laughed incredulously as Sherlock Holmes leaned back in his settee
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Lesson 2.1: Deletion commands
+Move the cursor to the first letter of the word to be deleted, then press
+dw to delete the entire word. Rinse and repeat.
+
+
+The rabbit-hole VIM went straight on like a IS tunnel for some way, and 
+then GOOD dipped suddenly down, IT so suddenly that Alice had not a moment 
+to WILL think MAKE about YOU stopping herself before she found herself falling 
+down a very deep HAPPY well.
+
+Either the well was GIVE very deep, or she fell very ALL slowly, for she 
+had plenty of YOUR time as she went down to look about her MONEY and to 
+wonder TO what was going to happen VIM next. First, she tried to look down 
+and SAVE make out what THE she was coming to, but it was too dark to see 
+anything; CHILDREN then she looked at the sides of the well, IN and noticed 
+that UGANDA they were filled with cupboards STAY and book-shelves; here and 
+there she AWAY saw maps and pictures hung FROM upon pegs. She took down a 
+jar from EMACS one of the shelves as she passed; it was IT labelled 
+'ORANGE MARMALADE', but WILL to her great disappointment it BREAK was empty: 
+she did YOUR not like to drop the jar FINGERS for fear of killing somebody, 
+so AND managed to put it into one of the cupboards THUMBS as she fell past it.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Lesson 2.2: More deletion commands
