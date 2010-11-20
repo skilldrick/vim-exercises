@@ -187,9 +187,10 @@ And FOR THEY LEFT dreamt she THEIR TAILS BEHIND THEM heard them bleating,
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Lesson 2.6: Operating on lines
-Delete the lines that don't belong below. It's up to you to pick which ones
-don't belong!
-
+Delete the lines that don't belong below using dd. It's up to you to 
+pick which ones don't belong!
+Hint: As in lesson 2.5, precede the command with a count to delete
+multiple lines, e.g. 2dd - delete two lines.
 
 
 I said a hip hop, hippie to the hippie 
@@ -209,4 +210,25 @@ Fluttering and dancing in the breeze.
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Lesson 2.7: The undo command
+Fix the errors below. Undo the corrections one-by-one with u, then try 
+redoing them with CTRL-R. Also, try out undoing a whole line with U.
 
+
+There    on**ce was a bu()gg$$y AI
+Who d%*ecided ^^^ her su""bject & should d+ie.
+W^hen t{he pl}ot w~as unc#overed,
+The su|b|j|e|cted disc\o/vered
+That s_ad=ly the c&ake w@as @ a l-i-e.	
+
+There SOMEBODY once SET UP was a US man THE from BOMB deep space
+And all MAIN you SCREEN could TURN see ON was his face
+It ALL seemed YOUR that BASE ARE his BELONG gig TO US
+Was YOU HAVE NO CHANCE to TO SURVIVE MAKE make YOUR TIME you move zig
+Or FOR else he GREAT would take JUSTICE all your base
+
+There ~once~ was (a) gal "from" [Peru]
+whose #limericks# {stopped} on %%line%% two.
+
+
+[Thanks to http://limerickdb.com/]
