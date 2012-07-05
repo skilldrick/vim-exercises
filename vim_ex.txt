@@ -52,13 +52,13 @@ Make the pairs of lines match up by inserting the missing text.
 Hint: if you're having trouble with the escape key, try Ctrl-[ instead.
 
 
-Oliver w the vim of matic course of trea decep
+Oliver w the vim of matic course of trea decep 
 Oliver was the victim of a systematic course of treachery and deception.
 
 Now Bumble was at, and a choic;
 Now, Mr. Bumble was a fat man, and a choleric;
 
-Th as no great cons to the chi
+Th as no great cons to the chi 
 This was no very great consolation to the child.
 
 'P, ir, I ome mo'
@@ -67,7 +67,7 @@ This was no very great consolation to the child.
 'We re o nction tse nture,' sd te old gntlmn
 'We refuse to sanction these indentures,' said the old gentleman
 
-ere poston of airs d n all improv
+ere poston of airs d n all improv 
 Here the position of affairs had not at all improved.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
