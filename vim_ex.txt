@@ -1,42 +1,42 @@
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Lesson 1.1: Moving the cursor
 Instructions: Follow the line around the screen using h, j, k and l.
-|             Hint: if you accidentally start typing text, press Esc          
-|       .-------.   to leave insert mode and u to undo any changes.           
-|       |       |                                                             
-\_______/       |                                                             
-                |                                                             
-                |                                                             
-                \____.                                                        
-                     |    .-----------------.                                 
-                     |    |                 |                                 
-           .---------+----+----.            |                                 
-           \_________/    |    |            |                                 
-                          |    |            |                                 
-                          |    |            |                                 
-                          |    \________.   \________ Well done! Now scroll   
-                          |             |             down to lesson 1.3      
-                          |             |             with j.                 
-                          |             |                                     
-                          \_____________/                                     
-                                                                              
-                                                                              
-                                                                              
+|             Hint: if you accidentally start typing text, press Esc
+|       .-------.   to leave insert mode and u to undo any changes.
+|       |       |
+\_______/       |
+                |
+                |
+                \____.
+                     |    .-----------------.
+                     |    |                 |
+           .---------+----+----.            |
+           \_________/    |    |            |
+                          |    |            |
+                          |    |            |
+                          |    \________.   \________ Well done! Now scroll
+                          |             |             down to lesson 1.3
+                          |             |             with j.
+                          |             |
+                          \_____________/
+
+
+
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Lession 1.3: Text editing - deletion
 Instructions: Correct the lines of text below by deleting the
 unneccesary characters with  x . Hint: use 0 to return to the left.
 
-Faar ouxt inn trhe unchttarteed bakckwataers oof the unfashionable end of the 
+Faar ouxt inn trhe unchttarteed bakckwataers oof the unfashionable end of the
 Weeestern sSpiral arrm ohf thze Gallaxy lies ae sm*all unregarded yellow syun.
 
-Iti ijs aaa trufth universalllly acknowledgegeged, that a sxingle manr iin 
+Iti ijs aaa trufth universalllly acknowledgegeged, that a sxingle manr iin
 possessibon of aw gopod fort^une muost bee in wantxxx of a) wife.&&
 
-Int waes lourvve at first sighght.. The feeirst time Yossarian sa9w th$e 
-chaplain heee fell maaadly in lov*ve with himmmm. 
+Int waes lourvve at first sighght.. The feeirst time Yossarian sa9w th$e
+chaplain heee fell maaadly in lov*ve with himmmm.
 
-Aaas Gregor Samsa awokke onne moorning frrom uneeasy ddreams hhe founnd 
+Aaas Gregor Samsa awokke onne moorning frrom uneeasy ddreams hhe founnd
 himmself trransformed inn hiis bbed intoo a giiigantic insecct.
 
 It was  a bright cold day in  April, and the clocks  were striking   thirteen.
@@ -72,7 +72,7 @@ Here the position of affairs had not at all improved.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Lesson 1.5: Text editing - appending
-Complete the lines by filling in the missing word, then pressing A 
+Complete the lines by filling in the missing word, then pressing A
 to append to the line. Remember, return the cursor to the left with 0.
 
 
@@ -99,26 +99,26 @@ Move the cursor to the first letter of the word to be deleted, then press
 dw to delete the entire word. Rinse and repeat.
 
 
-The rabbit-hole VIM went straight on like a IS tunnel for some way, and 
-then GOOD dipped suddenly down, IT so suddenly that Alice had not a moment 
-to WILL think MAKE about YOU stopping herself before she found herself falling 
+The rabbit-hole VIM went straight on like a IS tunnel for some way, and
+then GOOD dipped suddenly down, IT so suddenly that Alice had not a moment
+to WILL think MAKE about YOU stopping herself before she found herself falling
 down a very deep HAPPY well.
 
-Either the well was GIVE very deep, or she fell very ALL slowly, for she 
-had plenty of YOUR time as she went down to look about her MONEY and to 
-wonder TO what was going to happen VIM next. First, she tried to look down 
-and SAVE make out what THE she was coming to, but it was too dark to see 
-anything; CHILDREN then she looked at the sides of the well, IN and noticed 
-that UGANDA they were filled with cupboards STAY and book-shelves; here and 
-there she AWAY saw maps and pictures hung FROM upon pegs. She took down a 
-jar from EMACS one of the shelves as she passed; it was IT labelled 
-'ORANGE MARMALADE', but WILL to her great disappointment it BREAK was empty: 
-she did YOUR not like to drop the jar FINGERS for fear of killing somebody, 
+Either the well was GIVE very deep, or she fell very ALL slowly, for she
+had plenty of YOUR time as she went down to look about her MONEY and to
+wonder TO what was going to happen VIM next. First, she tried to look down
+and SAVE make out what THE she was coming to, but it was too dark to see
+anything; CHILDREN then she looked at the sides of the well, IN and noticed
+that UGANDA they were filled with cupboards STAY and book-shelves; here and
+there she AWAY saw maps and pictures hung FROM upon pegs. She took down a
+jar from EMACS one of the shelves as she passed; it was IT labelled
+'ORANGE MARMALADE', but WILL to her great disappointment it BREAK was empty:
+she did YOUR not like to drop the jar FINGERS for fear of killing somebody,
 so AND managed to put it into one of the cupboards THUMBS as she fell past it.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Lesson 2.2: More deletion commands
-Place the cursor on the first incorrect character of each line 
+Place the cursor on the first incorrect character of each line
 and press d$ to delete to the end of the line.
 
 
@@ -131,8 +131,8 @@ The Owl looked up to the stars above,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 And sang to a small guitar, /* With only 5 strings */
 "O lovely Pussy! O Pussy, my love,(Owls are known to be very passionate)
 What a beautiful Pussy you are, you are, you are,+++++++++++++
-What a beautiful Pussy you are." {Delete me please, I don't belong here} 
-Pussy said to the Owl "You elegant fowl, http://flic.kr/p/6chRZS 
+What a beautiful Pussy you are." {Delete me please, I don't belong here}
+Pussy said to the Owl "You elegant fowl, http://flic.kr/p/6chRZS
 How charmingly sweet you sing. @@Funfact - owls have the sweetest birdsong
 O let us be married, too long we have tarried; A little TOO much tarrying
 But what shall we do for a ring?" The eternal question.
@@ -142,7 +142,7 @@ But what shall we do for a ring?" The eternal question.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Lesson 2.4: Using a count for a motion
 
-Try to move from the point marked 'a' to the point marked 'b' using 
+Try to move from the point marked 'a' to the point marked 'b' using
 one command (e.g. 3e or 2w).
 
        a           b
@@ -164,11 +164,11 @@ Zero One Two Three Four Five Six Seven Eight Nine Ten
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Lesson 2.5: Using a count to delete more
-Delete the uppercase words using d{number}motion. To delete 2 words, use 
+Delete the uppercase words using d{number}motion. To delete 2 words, use
 2dw, to delete 3, use 3dw, etc. Always start on the first letter of the word.
 
 
-Jack and Jill UP GOT JACK went up AND HOME DID TROT the Hill 
+Jack and Jill UP GOT JACK went up AND HOME DID TROT the Hill
 to fetch AS FAST AS HE COULD a pail of CAPER water
 Jack HE WENT TO BED fell down and AND BOUND HIS HEAD broke his crown
 And WITH VINEGAR Jill came AND BROWN PAPER tumbling after.
@@ -181,19 +181,19 @@ Little Bo BUT WHEN SHE AWOKE peep has lost SHE FOUND IT A JOKE her sheep
 And FOR THEY WERE doesn't know ALL STILL FLEETING where to find them.
 Leave THEN UP SHE TOOK them alone and HER LITTLE CROOK they'll come home,
 Bringing DETERMINED FOR their tails TO FIND THEM behind them.
-Little Bo SHE FOUND THEM INDEED peep 
+Little Bo SHE FOUND THEM INDEED peep
 fell fast BUT IT MADE HER HEART BLEED asleep
 And FOR THEY LEFT dreamt she THEIR TAILS BEHIND THEM heard them bleating,
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Lesson 2.6: Operating on lines
-Delete the lines that don't belong below using dd. It's up to you to 
+Delete the lines that don't belong below using dd. It's up to you to
 pick which ones don't belong!
 Hint: As in lesson 2.5, precede the command with a count to delete
 multiple lines, e.g. 2dd - delete two lines.
 
 
-I said a hip hop, hippie to the hippie 
+I said a hip hop, hippie to the hippie
 I wandered lonely as a cloud
 That floats on high o'er vales and hills,
 When all at once I saw a crowd,
@@ -211,7 +211,7 @@ Fluttering and dancing in the breeze.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Lesson 2.7: The undo command
-Fix the errors below. Undo the corrections one-by-one with u, then try 
+Fix the errors below. Undo the corrections one-by-one with u, then try
 redoing them with CTRL-R. Also, try out undoing a whole line with U.
 
 
@@ -219,7 +219,7 @@ There    on**ce was a bu()gg$$y AI
 Who d%*ecided ^^^ her su""bject & should d+ie.
 W^hen t{he pl}ot w~as unc#overed,
 The su|b|j|e|cted disc\o/vered
-That s_ad=ly the c&ake w@as @ a l-i-e.	
+That s_ad=ly the c&ake w@as @ a l-i-e.
 
 There SOMEBODY once SET UP was a US man THE from BOMB deep space
 And all MAIN you SCREEN could TURN see ON was his face
