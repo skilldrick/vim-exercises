@@ -189,9 +189,8 @@ And FOR THEY LEFT dreamt she THEIR TAILS BEHIND THEM heard them bleating,
 Lesson 2.6: Operating on lines
 Delete the lines that don't belong below using dd. It's up to you to 
 pick which ones don't belong!
-Hint: As in lesson 2.5, precede the command with a count to delete
-multiple lines, e.g. 2dd - delete two lines.
-
+Hint: Precede the command with a count to delete multiple lines,
+e.g. 2dd - delete two lines.
 
 I said a hip hop, hippie to the hippie 
 I wandered lonely as a cloud
