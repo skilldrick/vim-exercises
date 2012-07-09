@@ -165,7 +165,7 @@ Zero One Two Three Four Five Six Seven Eight Nine Ten
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Lesson 2.5: Using a count to delete more
 Delete the uppercase words using d{number}motion. To delete 2 words, use 
-2dw, to delete 3, use 3dw, etc. Always start on the first letter of the word.
+d2w, to delete 3, use d3w, etc. Always start on the first letter of the word.
 
 
 Jack and Jill UP GOT JACK went up AND HOME DID TROT the Hill 
