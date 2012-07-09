@@ -165,7 +165,7 @@ Zero One Two Three Four Five Six Seven Eight Nine Ten
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Lesson 2.5: Using a count to delete more
 Delete the uppercase words using d{number}motion. To delete 2 words, use 
-2dw, to delete 3, use 3dw, etc. Always start on the first letter of the word.
+d2w, to delete 3, use d3w, etc. Always start on the first letter of the word.
 
 
 Jack and Jill UP GOT JACK went up AND HOME DID TROT the Hill 
@@ -189,9 +189,8 @@ And FOR THEY LEFT dreamt she THEIR TAILS BEHIND THEM heard them bleating,
 Lesson 2.6: Operating on lines
 Delete the lines that don't belong below using dd. It's up to you to 
 pick which ones don't belong!
-Hint: As in lesson 2.5, precede the command with a count to delete
-multiple lines, e.g. 2dd - delete two lines.
-
+Hint: Precede the command with a count to delete multiple lines,
+e.g. 2dd - delete two lines.
 
 I said a hip hop, hippie to the hippie 
 I wandered lonely as a cloud
