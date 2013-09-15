@@ -229,5 +229,38 @@ Or FOR else he GREAT would take JUSTICE all your base
 There ~once~ was (a) gal "from" [Peru]
 whose #limericks# {stopped} on %%line%% two.
 
-
 [Thanks to http://limerickdb.com/]
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Lesson 3.1: The put command
+Reorder the following lines using dd and p.
+
+3 Life is a broken-winged bird
+6 For when dreams go
+1 Hold fast to dreams
+8 Frozen with snow. 
+5 Hold fast to dreams
+2 For if dreams die
+7 Life is a barren field
+4 That cannot fly.
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Lesson 3.2: The replace command
+Use the replace (r) and x commands to sort out the following lines.
+
+"For I knot the pants I hang for you,” declares tie Loaf, 
+"For I know the plans I have for you,” declares the Lord, 
+
+“pants so proper your panda got to farm you, 
+“plans to prosper you and not to harm you, 
+
+pants to give yon pope land a suture. 
+plans to give you hope and a future. 
+
+When you wilt all on me and code and play tummy tickles, 
+Then you will call on me and come and pray to me, 
+
+sand Is still a glisten bayou.
+and I will listen to you.
+
