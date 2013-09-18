@@ -205,7 +205,8 @@ Now, what you hear is not a test, I'm rapping to the beat
 And me, the groove, and my friends are gonna try to move your feet
 Fluttering and dancing in the breeze.
 
-
+-William Wordsworth
+-Sugarhill Gang
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -233,7 +234,7 @@ whose #limericks# {stopped} on %%line%% two.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Lesson 3.1: The put command
-Reorder the following lines using dd and p.
+Reorder Langston Hughes using dd and p.
 
 3 Life is a broken-winged bird
 6 For when dreams go
@@ -247,7 +248,7 @@ Reorder the following lines using dd and p.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Lesson 3.2: The replace command
-Use the replace (r) and x commands to sort out the following lines.
+Use the replace (r) and x commands to sort out these verses.
 
 "For I knot the pants I hang for you,” declares tie Loaf, 
 "For I know the plans I have for you,” declares the Lord, 
@@ -258,9 +259,67 @@ Use the replace (r) and x commands to sort out the following lines.
 pants to give yon pope land a suture. 
 plans to give you hope and a future. 
 
-When you wilt all on me and code and play tummy tickles, 
+When you wilt all on me and code and play tummy-tickles, 
 Then you will call on me and come and pray to me, 
 
-sand Is still a glisten bayou.
+hand-In well-listed yoyos.
 and I will listen to you.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Lesson 3.3: The change operator
+Use the ce command to fix up Thomas Hardy:
+
+IX
+            Alignment they seemed to beguile;
+            Alien they seemed to be;
+
+            No mongolian eyelift could separate
+            No mortal eye could see
+
+The intimate welding of their laden hindquarters,
+The intimate welding of their later history,
+
+X
+            Or suggest that they were beneficial
+            Or sign that they were bent
+
+            Byproducts, parleying couchpotatoes 
+            By paths coincident
+
+Of bigger anatomies towards half of one augmented evening sandwich,
+On being anon twin halves of one august event,
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Lesson 3.4: More changes using c
+Take the c command out for a spin with Geoffrey Chaucer:
+
+try ce:
+Love is blimplike.
+Love is blind.
+
+try cfv:
+Be it about curvature, men love newfangledness.
+By nature, men love newfangledness.
+
+try c5w:
+The greatest cannabals have been close with many people.
+The greatest scholars are not usually the wisest people.
+
+try c$:
+Nowhere so busy a man as he than he, as he than he be he than he.
+Nowhere so busy a man as he than he, and yet he seemed busier than he was.
+
+try c3fc:
+People can succeed through a sincere imagination.
+People can die of mere imagination.
+
+go free-style:
+The bored assume all talk is mere intention.
+The guilty think all talk is of themselves.
+
+
+
+
+
 
