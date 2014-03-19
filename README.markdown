@@ -9,4 +9,4 @@ it doesn't really make sense to have a separate exercise.
 
 To start vimtutor, run `vimtutor` from a terminal. To open the 
 `vim_ex.txt` file in Vim, `cd` to the directory containing the file and
-run `vim vim_ext.txt`.
+run `vim vim_ex.txt`.
